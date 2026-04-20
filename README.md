@@ -12,5 +12,5 @@ font-family: Wack Club Sans, sans-serif;
 
 Download:
 
-- [TTF](https://uwu.boats/wcsans-ttf)
-- [OTF](https://uwu.boats/wcsans-otf)
+- [TTF](https://github.com/exu3/wack-club-sans/raw/refs/heads/main/fonts/WackClubSans-Regular.ttf)
+- [OTF](https://github.com/exu3/wack-club-sans/raw/refs/heads/main/fonts/WackClubSans-Regular.otf)
